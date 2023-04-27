@@ -159,7 +159,7 @@ extra/gs/google-modules/display/samsung/panel/panel-samsung-s6e3hc3.ko
 extra/gs/google-modules/display/samsung/exynos-drm.ko
 extra/gs/google-modules/gpu/mali_pixel/mali_pixel.ko
 extra/gs/google-modules/gpu/mali_kbase/mali_kbase.ko
-extra/gs/google-modules/edgetpu/abrolhos/drivers/edgetpu//abrolhos.ko
+extra/gs/google-modules/edgetpu/abrolhos/drivers/edgetpu/abrolhos.ko
 extra/gs/google-modules/bms/google-bms.ko
 extra/gs/google-modules/bms/google-battery.ko
 extra/gs/google-modules/bms/google-charger.ko
@@ -188,6 +188,7 @@ extra/gs/google-modules/aoc/aoc_uwb_platform_drv.ko
 extra/gs/google-modules/aoc/aoc_uwb_service_dev.ko
 extra/gs/google-modules/aoc/alsa/aoc_alsa_dev.ko
 extra/gs/google-modules/aoc/alsa/aoc_alsa_dev_util.ko
+extra/gs/google-modules/aoc/usb/aoc_usb_driver.ko
 extra/gs/google-modules/touch/common/touch_bus_negotiator.ko
 extra/gs/google-modules/touch/common/heatmap.ko
 extra/gs/google-modules/touch/common/touch_offload.ko
